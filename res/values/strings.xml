@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">诺瓦标记</string>
+    <string name="new_project">新建项目</string>
+    <string name="project_name">项目名称</string>
+    <string name="cancel">取消</string>
+    <string name="ok">确定</string>
+    <string name="delete">删除</string>
+    <string name="rename">重命名</string>
+    <string name="camera">拍照</string>
+    <string name="gallery">从相册选择</string>
+    <string name="export_pdf">导出 PDF</string>
+    <string name="export_project_pdf">导出整个项目 PDF</string>
+    <string name="export_single_pdf">导出本图 PDF</string>
+    <string name="no_photos">还没有照片，点右上角添加</string>
+    <string name="no_projects">还没有项目，点右下角新建</string>
+    <string name="mode_line">画线</string>
+    <string name="mode_text">文字</string>
+    <string name="mode_pan">浏览</string>
+    <string name="undo">撤销</string>
+    <string name="clear">清空</string>
+    <string name="save">保存</string>
+    <string name="unit">单位</string>
+    <string name="value_hint">输入数值</string>
+    <string name="value_title">这条线的尺寸</string>
+    <string name="unit_mm">毫米 mm</string>
+    <string name="unit_cm">厘米 cm</string>
+    <string name="unit_m">米 m</string>
+    <string name="unit_inch">英寸 in</string>
+    <string name="unit_ft">英尺 ft</string>
+    <string name="unit_px">像素 px</string>
+    <string name="note_hint">输入注释</string>
+    <string name="note_title">添加注释</string>
+    <string name="exported">已导出：</string>
+    <string name="export_failed">导出失败</string>
+    <string name="photo_count">%1$d 张</string>
+</resources>

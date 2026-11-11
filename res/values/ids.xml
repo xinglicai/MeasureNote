@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 工具栏项 id（布局由代码动态生成，这里只登记 id） -->
+    <item name="btn_line" type="id" />
+    <item name="btn_rect" type="id" />
+    <item name="btn_circle" type="id" />
+    <item name="btn_angle" type="id" />
+    <item name="btn_text" type="id" />
+    <item name="btn_pan" type="id" />
+    <item name="btn_style" type="id" />
+    <item name="btn_scale" type="id" />
+    <item name="btn_list" type="id" />
+    <item name="btn_undo" type="id" />
+    <item name="btn_redo" type="id" />
+    <item name="btn_del" type="id" />
+</resources>

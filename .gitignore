@@ -1,0 +1,27 @@
+# 构建中间产物
+build/
+*.jar
+*.zip
+app-*.apk
+
+# 签名相关
+*.idsig
+*.keystore
+*.jks
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# 系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 开发脚本与日志
+_dev/
+*.log
+
+# 构建产物（APK 只保留 release/ 里的）
+MeasureNote.apk
